@@ -1,5 +1,5 @@
 # House Ready
-# Home Buyer approval
+Home Buyer approval
 
 - This project's purpose is to improve user's experience if they are eligible to purchase a home.
 - This project is useful because it guides the user in what steps they could take when purchasing a home, what they need to work on before they are eligible to purchase a home, and the statistics representing a certain category. 
