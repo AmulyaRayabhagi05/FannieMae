@@ -1,7 +1,7 @@
 # House Ready
 Home Buyer approval
 
-- This project's purpose is to improve user's experience by helping them in deciding whether they are eligible to purchase a home.
+- This project's purpose is to improve users' experience by helping them determine whether they are eligible to purchase a home.
 - This project is useful because it guides the user in what steps they could take when purchasing a home, what they need to work on before they are eligible to purchase a home, and the statistics representing a certain category. 
 - The user first will be asked to enter their login information if they have an account otherwise they will be redirected to a page where they will sign up.
 -  They will then be asked to fill out a credit card eligibility survey, where they will be asked to input the ID, Gross Monthly Income, Credit Card Payment, Car Payment, Student Loan Payments, Appraised Value, Down Payment, Loan Amount, Monthly Mortgage Payment, Credit Score. For ineligible users, suggestions will pop up as to how to be eligible for a credit card.
