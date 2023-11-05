@@ -7,10 +7,7 @@
                 <div style="width: 44.06px; height: 38.19px; left: 0px; top: 5px; position: absolute; background: black"></div>
             </div>
         </div>
-        <div style="left: 502.50px; top: 41.50px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
-            <div style="flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
-                <div style="color: #262626; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Status</div>
-            </div>
+        <div style="left: 559px; top: 41.50px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
             <div style="justify-content: flex-start; align-items: flex-start; gap: 60px; display: flex">
                 <div style="justify-content: flex-start; align-items: flex-start; display: flex">
                     <div style="color: #262626; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Suggestions</div>
